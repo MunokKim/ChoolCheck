@@ -13,5 +13,6 @@ struct ChoolCheckApp: App {
         WindowGroup {
             ContentView()
         }
+        .modelContainer(for: Member.self)
     }
 }
