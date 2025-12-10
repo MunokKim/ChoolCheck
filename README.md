@@ -1,6 +1,6 @@
 # ChoolCheck
 
-> SwiftUI와 SwiftData를 활용한 출석 관리 애플리케이션
+> SwiftUI와 SwiftData를 활용한 출석 관리 앱
 
 [![Swift](https://img.shields.io/badge/Swift-5.9+-orange.svg)](https://swift.org)
 [![iOS](https://img.shields.io/badge/iOS-17.0+-lightgrey.svg)](https://www.apple.com/ios/)
@@ -12,9 +12,10 @@
 
 iOS 17에서 새롭게 도입된 SwiftData 프레임워크를 학습하기 위해 제작한 출석 관리 앱입니다.
 
-**제작 기간**: 2023년 10월
-**제작 목적**: SwiftData 프레임워크 학습 및 실습
-**프로젝트 상태**: 초기 개발 단계 (기본 구조 구현)
+- **제작 기간**: 2023년 10월 14일 (1일간)
+- **제작 목적**: SwiftData 프레임워크 학습 및 실습. 그리고 취미 모임 운영시에 모임 구성원의 출석을 편하게 관리하기 위해.
+- **프로젝트 상태**: 초기 개발 단계 (기본 구조 구현)
+  - 본래 제작 목적이었던 출석관리 용도로의 사용이 더이상 필요하지 않게 되어, SwiftData 학습을 위한 기본 구조 구현까지만 진행하고 프로젝트 중단됨.
 
 ---
 
@@ -202,21 +203,3 @@ open ChoolCheck.xcodeproj
 - [ ] VisionKit을 활용한 명단 스캔 기능
 - [ ] 멤버 추가/수정 화면
 - [ ] 출석률 계산 및 표시
-- [ ] 다크 모드 지원
-
----
-
-## 라이선스
-
-이 프로젝트는 MIT 라이선스를 따릅니다.
-
----
-
-## 작성자
-
-**Munok Kim (Eli)**
-- GitHub: [@MunokKim](https://github.com/MunokKim)
-
----
-
-**Made in 2023 | Learning SwiftData**
